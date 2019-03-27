@@ -14,12 +14,6 @@ Introducing Tipped, an open-source tip bot to send and receive EOS using just yo
 
 </div>
 
-<div align="center">
-
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
-
-</div>
-
 # Commands
 ```
 /tip X EOS MEMO — Reply to a message with for example "/tip 0.1234 EOS :)" to tip a user!
