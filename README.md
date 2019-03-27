@@ -2,7 +2,6 @@
 <br>
 <img width="180" src="/logo.png" alt="Tipped">
 <br>
-<br>
 </div>
 
 <p align="center" color="#6a737d">
