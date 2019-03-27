@@ -1,0 +1,26 @@
+{
+    "SERVERLESS": false,
+
+    "TIP_CONTRACT": "tippedtipped",
+    "TIP_ACCOUNT_PERM": "active",
+    "TIP_ACCOUNT_TABLE": "accounts",
+    "TIP_ACTION": "tip",
+    "WITHDRAW_ACTION": "withdraw",
+
+    "TOKEN_SYMBOL": "EOS",
+    "TOKEN_CONTRACT": "eosio.token",
+    "TOKEN_PRECISION": 4,
+    "MINIMUM_TIP": 0.0001,
+    "MAXIMUM_TIP": 1.0000,
+    "MAXIMUM_MONTHLY_WITHDRAW": 25.0000,
+    "COMPANY_NAME": "Tipped",
+    "SUPPORT_TELEGRAM_GROUP": "@",
+
+    "BOT_TOKEN": "",
+    "PRIVATE_KEY": "",
+    "NODE_URL": "",
+    "BLOKS_URL": "https://bloks.io",
+    "BOT_USERNAME": "",
+    "CHAIN": "mainnet",
+    "REDIS_URI": ""
+}
