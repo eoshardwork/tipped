@@ -10,8 +10,6 @@ Talk to @botfather on Telegram to create a bot and get your bot ID
 3. redis 
 
 # Running
-1. modify config.json with your own information
-2. ```
-yarn start
-```
+1. Modify config.json with your own information
+2. `yarn start`
 
