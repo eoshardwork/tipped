@@ -1,5 +1,21 @@
-# Tipped
+<div align="center">
+<br>
+<img width="180" src="/logo.png" alt="Tipped">
+<br>
+<br>
+</div>
+
+<p align="center" color="#6a737d">
 Introducing Tipped, an open-source tip bot to send and receive EOS using just your telegram account!
+</p>
+
+<div align="center">
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
+</div>
+
+<div align="center">
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+</div>
 
 # Commands
 ```
