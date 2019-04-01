@@ -16,7 +16,7 @@ CONTRACT tipped: public contract {
                const std::string to_username,
                asset quantity,
                const std::string memo);
-    ACTION withdraw (name contract, uint64_t from, name from_username, name to, asset quantity, const std::string& memo);
+    ACTION withdraw (name contract, uint64_t from, std::string from_username, name to, asset quantity, const std::string& memo);
 
     [[eosio::on_notify("eosio.token::transfer")]]
     void deposit( name        from,
