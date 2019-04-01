@@ -10,7 +10,7 @@ void tipped::deposit (name from, name to, asset quantity, const std::string& mem
   }
 }
 
-void tipped::withdraw (name contract, uint64_t from, name from_username, name to, asset quantity, const std::string& memo) {
+void tipped::withdraw (name contract, uint64_t from, std::string from_username, name to, asset quantity, const std::string& memo) {
   auto self = get_self();
   require_auth(self);
   
